@@ -1,7 +1,8 @@
 # FlameBamboo HackerCard
 
 This was my first time using EasyEDA and I followed a tutorial provided by HackClub by Maggie-J-Liu here https://jams.hackclub.com/jam/hacker-card
-It is a card that has RFID capabilitites by using the NFC antenna, this component uses energy harvesting to absorbs energy from our devices when it is at a close proxmitity. The card design is personalised to me, at the very top front it contains my known name "FlameBamboo" as taught in the tutorial we can achieve gold colour by overlapping the "TopSolderMask" and the "TopLayer" to achieve this effect! I also added a golden duck image since I just got a pet duck recently!
+It is a card that has RFID capabilitites by using the NFC antenna, this component uses energy harvesting to absorbs energy from our devices when it is at a close proxmitity. The card design is personalised to me, at the very top front it contains my known name "FlameBamboo" as taught in the tutorial we can achieve gold colour by overlapping the "TopSolderMask" and the "TopLayer" to achieve this effect!
+I also added a golden duck image that I traced in figma using line tool since I just got a pet duck recently!
 
 ## Total Spent: 5 hours
 
