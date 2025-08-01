@@ -5,7 +5,7 @@ description: "NFC credit card sized buisness card"
 created_at: "2025-7-30"
 ---
 
-## Total Spent: 5 hours
+## Total Spent: 5 hours 20 minutes
 
 # June 30th: Started the schematic
 
