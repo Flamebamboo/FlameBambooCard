@@ -32,8 +32,15 @@ Next I added my information for the content of the card aswell as adding persona
 
 I added keychain hole about 12.7mm in height and 2.54mm in width with sound rounded curve that looks like this
 
-![keychain]("https://hc-cdn.hel1.your-objectstorage.com/s/v3/859182f7e625dced2e9b9e0123faea6aab0bce94_screenshot_2025-08-01_at_8.03.14___am.png")
+Now it is time to replace all the gerbers files again!
 
-Now it is time to replace all the files again!
+---
 
-**Total time spent: 20m**
+Reviewers told me to add additional artwork so I quickly opened figma and started drawing panda's paw
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/28ea5cfe7ddc2e407a873e15e91b6321b5917ff1_screenshot_2025-08-01_at_8.31.39___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/be8f56ce13e830d898f7e52f073b8f7e7314dd70_screenshot_2025-08-01_at_8.31.09___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f525b1ae77870da5b7fff8aba51fb1151f9b8f09_screenshot_2025-08-01_at_8.29.06___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/859182f7e625dced2e9b9e0123faea6aab0bce94_screenshot_2025-08-01_at_8.03.14___am.png)
+
+**Total time spent: 45m**

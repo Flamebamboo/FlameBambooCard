@@ -7,9 +7,10 @@ I also added a golden duck image that I traced in figma using line tool since I 
 ## Total Spent: 5 hours
 
 ![ImageSchematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8053d3bb08281929ba7137a4d912aedc6cc1355f_screenshot_2025-07-31_at_2.28.42___pm.png)
-![Image1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6c0725a027af97159471b9989c206b5aca294097_screenshot_2025-07-31_at_2.21.31___pm.png)
-![Image3](https://hc-cdn.hel1.your-objectstorage.com/s/v3/68a5149cf619becd867298ddc1494c8fc5c0c707_screenshot_2025-07-31_at_2.20.45___pm.png)
-![Image4](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d591ba3c3ca07446303b15dc91067e969477edae_screenshot_2025-07-31_at_1.20.13___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/28ea5cfe7ddc2e407a873e15e91b6321b5917ff1_screenshot_2025-08-01_at_8.31.39___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/be8f56ce13e830d898f7e52f073b8f7e7314dd70_screenshot_2025-08-01_at_8.31.09___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f525b1ae77870da5b7fff8aba51fb1151f9b8f09_screenshot_2025-08-01_at_8.29.06___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/859182f7e625dced2e9b9e0123faea6aab0bce94_screenshot_2025-08-01_at_8.03.14___am.png)
 
 ## Bill of Materials (BOM) Summary
 
