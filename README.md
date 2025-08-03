@@ -17,10 +17,10 @@ I also added a golden duck image that I traced in figma using line tool since I 
 | Comment         | Part            | Quantity | LCSC ID | Price (USD)     |
 | --------------- | --------------- | -------- | ------- | --------------- |
 | 220nF Capacitor | CL10B224KA8NNNC | 1        | C21120  | 0.006           |
-| Red LED         | KT-0805R        | 1        | C2295   | 0.011           |
-| 47Ω Resistor    | 0603WAF470JT5E  | 1        | C23182  | 0.001           |
+| Red LED         | KT-0805R        | 2        | C2295   | 0.022           |
+| 47Ω Resistor    | 0603WAF470JT5E  | 2        | C23182  | 0.002           |
 | NFC Chip        | NT3H2111W0FHKH  | 1        | C710403 | 0.886           |
 | **PCB**         |                 | 1        |         | $4.00           |
 | **PCBA**        |                 | 1        |         | $21.07          |
 | **Shipping**    |                 | 1        |         | Est $7.65 (UPS) |
-| **Total**       |                 |          |         | **$32.72**      |
+| **Total**       |                 |          |         | **$32.75**      |

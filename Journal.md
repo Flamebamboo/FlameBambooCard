@@ -44,3 +44,11 @@ Reviewers told me to add additional artwork so I quickly opened figma and starte
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/859182f7e625dced2e9b9e0123faea6aab0bce94_screenshot_2025-08-01_at_8.03.14___am.png)
 
 **Total time spent: 45m**
+
+# August 4 Re-Review FIX
+
+I had to add another LED to pass the review. just added LED and resistor.
+![]("https://hc-cdn.hel1.your-objectstorage.com/s/v3/770610bb2455f4af6535058a26cd02cd69449c8d_screenshot_2025-08-04_at_12.07.43___am.png)
+![]("https://hc-cdn.hel1.your-objectstorage.com/s/v3/28adaa37751bc58d3c174d7a9d7fd623ce0fa3b3_screenshot_2025-08-03_at_11.51.51___pm.png")
+
+**Total time spent: 20m**
