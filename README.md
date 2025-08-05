@@ -6,7 +6,8 @@ I also added a golden duck image that I traced in figma using line tool since I 
 
 ## Total Spent: 5 hours
 
-![ImageSchematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8053d3bb08281929ba7137a4d912aedc6cc1355f_screenshot_2025-07-31_at_2.28.42___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/770610bb2455f4af6535058a26cd02cd69449c8d_screenshot_2025-08-04_at_12.07.43___am.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/28adaa37751bc58d3c174d7a9d7fd623ce0fa3b3_screenshot_2025-08-03_at_11.51.51___pm.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/28ea5cfe7ddc2e407a873e15e91b6321b5917ff1_screenshot_2025-08-01_at_8.31.39___am.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/be8f56ce13e830d898f7e52f073b8f7e7314dd70_screenshot_2025-08-01_at_8.31.09___am.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f525b1ae77870da5b7fff8aba51fb1151f9b8f09_screenshot_2025-08-01_at_8.29.06___am.png)
